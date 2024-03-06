@@ -50,4 +50,22 @@ body{
     margin: 5px;
     padding:15px;
     text-align: start;
+    margin-bottom: 30px;
+}
+.enter{
+    background-color: black;
+    color:white;
+    text-decoration: none;
+    padding: 5px 20px;
+    border-radius: 5px;
+    border:1px solid red;
+}
+/* ========================================== */
+.bg1{
+    background: url('https://i.ibb.co/dBLbrRV/bg1.jpg');
+}
+  
+.bg2{
+    background: url('https://i.ibb.co/Fb5jb3J/bg2.jpg');
+    color: #333;
 }
